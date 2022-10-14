@@ -6,13 +6,13 @@ public class Main {
         int[] ds2 = {10, 4, 3, 6, 9, 4, 4};
         int[] cs2 = {8, 8, 4, 2, 8, 8, 4}; //8+4+3+8+4+4 = 31
 
-        //int resultado = procesar(ds, cs);
-       // int resultado2 = procesar(ds2, cs2);
+        int resultado = procesar(ds, cs);
+        int resultado2 = procesar(ds2, cs2);
         int resultado3 = procesar2(ds, cs);
         int resultado4 = procesar2(ds2, cs2);
 
-        //System.out.println(resultado);
-        //System.out.println(resultado2);
+        System.out.println(resultado);
+        System.out.println(resultado2);
         System.out.println(resultado3);
         System.out.println(resultado4);
     }
