@@ -4,7 +4,7 @@ public class Main {
         int[] ds = {10, 1, 7, 7};
         int[] cs = {8, 4, 2, 1};
         int[] ds2 = {10, 4, 3, 6, 9, 4, 4};
-        int[] cs2 = {8, 8, 4, 2, 8, 8, 4}; //8+4+3+8+4+4 = 31
+        int[] cs2 = {64, 32, 16, 8, 4, 2, 1}; //8+4+3+8+4+4 = 31
 
         int resultado = procesar(ds, cs);
         int resultado2 = procesar(ds2, cs2);
