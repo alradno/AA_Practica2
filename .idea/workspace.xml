@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97346026-56cc-451f-aa30-4d4ce35523da" name="Changes" comment="Update2">
+      <change afterPath="$PROJECT_DIR$/Memoria AA Practica 2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <list id="00a836dd-384c-4bf7-a0b5-2bcbd3422c48" name="Changes by Usuario" comment="">
@@ -19,8 +22,8 @@
     <file path="$PROJECT_DIR$/src/Main.java">
       <ranges>
         <range start1="6" end1="7" start2="6" end2="7" changelist="00a836dd-384c-4bf7-a0b5-2bcbd3422c48" />
-        <range start1="8" end1="10" start2="8" end2="10" changelist="97346026-56cc-451f-aa30-4d4ce35523da" />
-        <range start1="13" end1="15" start2="13" end2="15" changelist="97346026-56cc-451f-aa30-4d4ce35523da" />
+        <range start1="45" end1="45" start2="45" end2="46" changelist="97346026-56cc-451f-aa30-4d4ce35523da" />
+        <range start1="53" end1="54" start2="54" end2="54" changelist="97346026-56cc-451f-aa30-4d4ce35523da" />
       </ranges>
     </file>
   </component>
@@ -28,13 +31,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2G5lx2B7tBtOIcUMUc1cNVBm1rU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -70,7 +76,13 @@
       <workItem from="1665705384417" duration="1688000" />
       <workItem from="1665738180796" duration="2513000" />
       <workItem from="1665741761709" duration="4383000" />
-      <workItem from="1665748054881" duration="182000" />
+      <workItem from="1665748054881" duration="262000" />
+      <workItem from="1665854135832" duration="237000" />
+      <workItem from="1665854726847" duration="615000" />
+      <workItem from="1665920764092" duration="119000" />
+      <workItem from="1666879875349" duration="1424000" />
+      <workItem from="1666908866463" duration="609000" />
+      <workItem from="1666910482994" duration="107000" />
     </task>
     <task id="LOCAL-00001" summary="Update1">
       <created>1665705686522</created>
@@ -121,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665748115320</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update2">
+      <created>1665748246506</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665748246506</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +158,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update1" />
     <MESSAGE value="Update2" />
     <option name="LAST_COMMIT_MESSAGE" value="Update2" />

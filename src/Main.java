@@ -43,6 +43,7 @@ public class Main {
         int resultado = 0;
         int indice = 0;
         int mediads = 0;
+        int mediacs = 0;
 
         //Media del array ds
         for(int i = 0; i < ds.length; i++){
@@ -51,7 +52,6 @@ public class Main {
         mediads = mediads / ds.length;
 
         //Media cs
-        int mediacs = 0;
         for(int i = 0; i < cs.length; i++){
             mediacs += cs[i];
         }
@@ -70,6 +70,7 @@ public class Main {
                 //Si es un día que merece la pena no reiniciar
                 if(ds[i] > mediads && cs[indice] > mediacs){
                     resultado += Math.min(ds[i], cs[indice]);
+                    indice++;
                 }
                 //Reinicia Servidor (la recompensa es muy baja si no se hace)
                 else{
